@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "600956221815",
+    "project_id": "hicm-institute",
+    "storage_bucket": "hicm-institute.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600956221815:android:3de3348ed35b739a820972",
+        "android_client_info": {
+          "package_name": "Robin.Do"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600956221815-a2skd54fferi1e5mt0ipcsf4n0rhqaih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAbYOxNXIj1ZsFxQ1rengPV5CJuM2__lY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600956221815-a2skd54fferi1e5mt0ipcsf4n0rhqaih.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "600956221815-0e02pkkpq7ch1qcdoit4slouecu45lv7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.fftrivia"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600956221815:android:4668ee9838bfec8b820972",
+        "android_client_info": {
+          "package_name": "com.flutterflow.fftrivia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600956221815-a2skd54fferi1e5mt0ipcsf4n0rhqaih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAbYOxNXIj1ZsFxQ1rengPV5CJuM2__lY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600956221815-a2skd54fferi1e5mt0ipcsf4n0rhqaih.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "600956221815-0e02pkkpq7ch1qcdoit4slouecu45lv7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.fftrivia"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600956221815:android:a8e5fc3d7dc0a8c8820972",
+        "android_client_info": {
+          "package_name": "com.flutterflow.finwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600956221815-a2skd54fferi1e5mt0ipcsf4n0rhqaih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAbYOxNXIj1ZsFxQ1rengPV5CJuM2__lY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600956221815-a2skd54fferi1e5mt0ipcsf4n0rhqaih.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "600956221815-0e02pkkpq7ch1qcdoit4slouecu45lv7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.fftrivia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
